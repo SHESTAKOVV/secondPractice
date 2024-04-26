@@ -1,0 +1,15 @@
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\bin\Debug\net8.0\1  2.exe
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\bin\Debug\net8.0\1  2.deps.json
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\bin\Debug\net8.0\1  2.runtimeconfig.json
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\bin\Debug\net8.0\1  2.dll
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\bin\Debug\net8.0\1  2.pdb
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.AssemblyInfoInputs.cache
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.AssemblyInfo.cs
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.csproj.CoreCompileInputs.cache
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.sourcelink.json
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.dll
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\refint\1  2.dll
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.pdb
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\1  2.genruntimeconfig.cache
+D:\Эдик\Programming\C# bomb1\Practika\practice 3\1  2\obj\Debug\net8.0\ref\1  2.dll
